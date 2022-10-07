@@ -1,0 +1,5 @@
+[example-service]
+clientID = example-service
+clientSecret = secret
+providerUrl = https://www.example.test/keycloak/realms/golang-oidc
+usersUrl = https://www.example.test/keycloak/admin/realms/golang-oidc/users
