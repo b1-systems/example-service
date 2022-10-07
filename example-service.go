@@ -1,3 +1,6 @@
+/* Demonstration of the OAuth2 Client Credentials Grant
+   see also: https://oauth.net/2/grant-types/client-credentials/ */
+
 package main
 
 import(
