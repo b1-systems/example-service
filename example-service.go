@@ -1,5 +1,7 @@
-/* Demonstration of the OAuth2 Client Credentials Grant
-   see also: https://oauth.net/2/grant-types/client-credentials/ */
+/* Demonstration of the OAuth2 Client Credentials Grant performing
+   (for demonstration purpose) a "list users" call to the Keycloak API
+   * See also: https://oauth.net/2/grant-types/client-credentials/
+   * See also: https://www.keycloak.org/docs-api/12.0/rest-api/#_users_resource */
 
 package main
 
