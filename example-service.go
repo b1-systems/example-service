@@ -1,3 +1,9 @@
+/* author: B1 Systems GmbH
+ * authoremail: info@b1-systems.de
+ * license: MIT License <https://opensource.org/licenses/MIT>
+ * summary: OpenID Connect example
+ * */
+
 /* Demonstration of the OAuth2 Client Credentials Grant performing
    (for demonstration purpose) a "list users" call to the Keycloak API
    * See also: https://oauth.net/2/grant-types/client-credentials/
