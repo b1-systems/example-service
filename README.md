@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://tk-sls.de/gitlab/golang-oidc/example-service.git
+git clone https://github.com/b1-systems/example-service.git
 cd example-service
 go build
 ```
